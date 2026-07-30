@@ -37,9 +37,9 @@ End-to-end pipeline predicting telecom customer churn, optimized for F1-score to
 
 ## 🧰 Tech Stack
 
-**Languages & Frameworks:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+**Languages & Frameworks:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
-**AI & Agentic Systems:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white)
+**AI & Agentic Systems:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C) ![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white)
 
 **Data & Infra:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
 
