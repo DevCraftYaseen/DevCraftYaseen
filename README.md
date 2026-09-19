@@ -18,11 +18,11 @@ University Gold Medalist in Information Technology (CGPA 3.93/4.00) from the Uni
 On-premise, internet-independent restaurant management ecosystem (web, desktop, mobile) with a FastAPI ML microservice using association-rule mining for automated recommendations, and RBAC across Waiter/Kitchen/Admin roles. Basis of a research paper currently in preparation.
 `Node.js` `Express` `Next.js` `Electron` `React Native` `FastAPI` `Association Rule Mining`
 
-### [AI Chatbot with RAG, Tools & Human-in-the-Loop](https://github.com/DevCraftYaseen/chatbot)
+### [AI Chatbot with RAG, Tools & Human-in-the-Loop](https://github.com/DevCraftYaseen/DCY-Chatbot)
 Advanced conversational AI system built with LangGraph orchestrating multi-modal capabilities: real-time streaming chat, PDF document Q&A via FAISS vector search (RAG), tool execution (web search, calculator, stock API), and human-in-the-loop approval workflow for critical actions. Persistent state management with SQLite checkpointing across conversation threads.
 `Python` `FastAPI` `LangGraph` `LangChain` `Next.js` `FAISS` `RAG` `Ollama`
 
-### [Customer Churn Prediction — End-to-End ML Pipeline](#)
+### [Customer Churn Prediction — End-to-End ML Pipeline](https://github.com/DevCraftYaseen/Customer-Churn-Prediction-System-End-to-End-ML-Pipeline)
 End-to-end pipeline predicting telecom customer churn, optimized for F1-score to minimize false negatives under class imbalance. >80% predictive accuracy, with feature-importance analysis for actionable retention strategy.
 `Python` `Scikit-learn` `FastAPI` `Class Imbalance Handling`
 
